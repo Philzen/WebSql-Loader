@@ -1,0 +1,5 @@
+{
+  "name": "WebSql-Loader",
+  "version": "0.0.1",
+  "main": "websql.exporter.js"
+}
