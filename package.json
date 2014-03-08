@@ -1,0 +1,10 @@
+{
+  "name": "WebSql-Loader",
+  "name": "modulename",
+  "description": "Enables backup and restore of websql databases via various formats",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url":  "https://github.com/Philzen/WebSql-Loader"
+  }
+}
