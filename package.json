@@ -1,5 +1,5 @@
 {
-  "name": "WebSql-Loader",
+  "name": "websql-loader",
   "description": "Enables backup and restore of websql databases via various formats",
   "version": "0.0.1",
   "repository": {
